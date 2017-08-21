@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Vision QR Camera</string>
+    <string name="qr_camera_button">Launch QR Camera</string>
+</resources>
